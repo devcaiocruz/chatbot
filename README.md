@@ -32,10 +32,16 @@ O chatbot é capaz de interagir com os usuários (tanto por seleção de botões
 
 ---
 
+## 🚀 Funcionalidades
+
+👉 [Clique aqui para acessar o site](https://devcaiocruz.github.io/chatbot/)
+
+---
+
 ## 🎥 Demonstração em Vídeo
 
-👉 [Clique aqui para assistir à demonstração no YouTube](#)  
-*(Substituir pelo link real quando disponível)*
+👉 [Clique aqui para assistir à demonstração no YouTube](https://youtu.be/YnW97LiHnVo)  
+
 
 ---
 
