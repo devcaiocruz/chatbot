@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/png" href="https://furiagg.fbitsstatic.net/sf/img/favicon.ico?theme=main&amp;v=202503171541">
+    <title>FURIA</title>
+</head>
+<style>
+    body, html {
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
+    .full-image {
+      display: block;
+      width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <img class="full-image" src="assets/images/imagemlonga.png" alt="Imagem Longa">
+  
+</body>
+</html>
+
+<script>
+    window.watsonAssistantChatOptions = {
+      integrationID: "cfcf28d7-9d23-4250-961e-47ab2d99eeb6", // The ID of this integration.
+      region: "us-east", // The region your integration is hosted in.
+      serviceInstanceID: "ff7a4e7d-5736-4e67-8add-b1f31361c2a0", // The ID of your service instance.
+      onLoad: async (instance) => { await instance.render(); }
+    };
+    setTimeout(function(){
+      const t=document.createElement('script');
+      t.src="https://web-chat.global.assistant.watson.appdomain.cloud/versions/" + (window.watsonAssistantChatOptions.clientVersion || 'latest') + "/WatsonAssistantChatEntry.js";
+      document.head.appendChild(t);
+    });
+  </script>
