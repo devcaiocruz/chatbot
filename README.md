@@ -32,7 +32,7 @@ O chatbot é capaz de interagir com os usuários (tanto por seleção de botões
 
 ---
 
-## 🚀 Funcionalidades
+## 🚀 Prototipo funcional
 
 👉 [Clique aqui para acessar o site](https://devcaiocruz.github.io/chatbot/)
 
