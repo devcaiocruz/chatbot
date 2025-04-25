@@ -2,6 +2,10 @@
 
 Este projeto é um **chatbot informativo da equipe FURIA Esports**, desenvolvido utilizando o **IBM Watson Assistant**. A aplicação foi criada como parte de um desafio técnico para vaga de estágio Engenharia de Software.
 
+### 📚 Planejamento inicial
+![Challenge 1](https://github.com/user-attachments/assets/138beb90-cfac-48e4-a729-5eefd97b3282)
+
+
 ## 🚀 Funcionalidades
 
 O chatbot é capaz de interagir com os usuários (tanto por seleção de botões quanto por escrita) respondendo de forma amigável e objetiva sobre diferentes aspectos da equipe FURIA. As funcionalidades implementadas incluem:
